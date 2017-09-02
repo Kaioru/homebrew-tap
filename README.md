@@ -1,2 +1,2 @@
-# Kaioru's homebrew-tap
+# homebrew-tap
 A personal homebrew tap for some of my stufferino burritos.
