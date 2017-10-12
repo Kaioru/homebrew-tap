@@ -3,9 +3,9 @@ require "language/node"
 class Memefy < Formula
   desc "pronounced as me me fy. yes really. dont laugh"
   homepage "https://github.com/Kaioru/memefy.js#readme"
-  url "https://registry.npmjs.org/memefy/-/memefy-1.0.0.tgz"
-  version "1.0.0"
-  sha256 "02fc761d1b987d00ca529a07d844296fa19be97b7bbf2c4c6ed09cc2c8fdad24"
+  url "https://registry.npmjs.org/memefy/-/memefy-1.0.1.tgz"
+  version "1.0.1"
+  sha256 "807078a283f0d36d8ff36558488f8c707ff5a202a303e9780b1520a2e82bd872"
 
   depends_on "node"
 
