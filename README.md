@@ -10,4 +10,4 @@ A personal homebrew tap for some of my stufferino burritos.
 ## Some cool stuff
 * [deskly-cli](https://github.com/Deskly/deskly-cli) - a pretty cool reddit desktop image thingy.
 * [hookshot-cli](https://github.com/Kaioru/hookshot-cli) - a simple webhook manager for discord.
-* [memefy](https://github.com/Kaioru/memefyjs) - daNK MEMES.
+* [memefy](https://github.com/Kaioru/memefy.js) - daNK MEMES.
